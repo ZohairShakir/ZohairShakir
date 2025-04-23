@@ -11,7 +11,7 @@
 
 - 🎓 I'm **18 years old**, passionate about Data Science and AI.
 - 🧠 Learning **TensorFlow** and **PyTorch** right now.
-- 🌐 Creator of [**Vidhyafy**](#) — a website to simplify learning!
+- 🌐 Creator of [**Vidhyafy**](www.vidhyafy.pages.dev) — a website to simplify learning!
 - 💻 I know **Python**, **HTML**, and **CSS**.
 - ⚡ Fun Facts: I love **anime**, **football**, **chess**, and **reading**.
 ---
