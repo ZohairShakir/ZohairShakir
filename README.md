@@ -14,7 +14,6 @@
 - 🌐 Creator of [**Vidhyafy**](#) — a website to simplify learning!
 - 💻 I know **Python**, **HTML**, and **CSS**.
 - ⚡ Fun Facts: I love **anime**, **football**, **chess**, and **reading**.
-
 ---
 
 ## 🛠️ Technologies & Tools
