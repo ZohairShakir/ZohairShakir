@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | Programmer | Creator of Vidhyafy</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Enthusiast;Learning+TensorFlow+%26+PyTorch;Anime+%7C+Football+%7C+Chess+%7C+Reading&font=Fira%20Code&center=true&width=440&height=45&color=00ADB5&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI/ML + ENGINEER;Learning+TensorFlow+%26+PyTorch;Anime+%7C+Football+%7C+Chess+%7C+Reading&font=Fira%20Code&center=true&width=440&height=45&color=00ADB5&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
