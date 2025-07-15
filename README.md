@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zohair Shakir</h1>
+<h1 align="center">Hi 👋, I'm Zoher Shakir</h1>
 <h3 align="center">Aspiring Data Scientist | Programmer | Creator of Vidhyafy</h3>
 
 <p align="center">
